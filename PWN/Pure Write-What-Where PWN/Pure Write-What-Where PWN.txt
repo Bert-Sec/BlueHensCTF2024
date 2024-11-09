@@ -1,0 +1,9 @@
+Name: Pure Write-What-Where PWN
+Category: PWN
+Value: 436
+ID: 163
+
+Description:
+Straight to the point.
+
+-ProfNinja

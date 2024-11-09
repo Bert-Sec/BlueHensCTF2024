@@ -1,0 +1,11 @@
+Name: RGBinary
+Category: FORENSICS
+Value: 500
+ID: 125
+
+Description:
+Some planes are flying, some planes are grounded.
+
+-AcerYeung
+
+(Capital `UDCTF{}`)
