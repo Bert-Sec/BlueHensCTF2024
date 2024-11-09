@@ -1,9 +1,0 @@
-Name: Scottish Ham
-Category: MISC
-Value: 500
-ID: 177
-
-Description:
-You scream into the void, and it responds with this...
-
-~skyefi

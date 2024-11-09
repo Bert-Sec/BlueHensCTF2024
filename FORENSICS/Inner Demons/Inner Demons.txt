@@ -1,9 +1,0 @@
-Name: Inner Demons
-Category: FORENSICS
-Value: 444
-ID: 133
-
-Description:
-I can't seem to sleep at night... Maybe I need to dig further within.
-
--pleasework.sh

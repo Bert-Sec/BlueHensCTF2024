@@ -1,9 +1,0 @@
-Name: I'm Hungry
-Category: OSINT
-Value: 499
-ID: 175
-
-Description:
-Google is your friend.
-
--JD (jr.)
